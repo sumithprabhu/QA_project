@@ -1,0 +1,58 @@
+.app__footer{
+    background-color: #28293E;
+    color: white;
+}
+.app__footer-info{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.app__footer-parent{
+    width: 220px;
+    padding-left: 50px;
+}
+
+.app__footer-contact{
+    width: 220px;
+    //padding-left: 10px;
+}
+.app__footer-title{
+    
+    padding-bottom: 5px;
+    font-size: 22px;
+}
+.app__footer-contact{
+    padding-right: 50px;
+}
+.app__footer-contact p{
+    font-size: 18px;
+}
+
+.app__footer-explore ul li{
+    list-style-type: none;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+.app__footer-services ul li{
+    list-style-type: none;
+    font-size: 18px;
+    padding-bottom: 5px;
+
+}
+.app__footer-social{
+    padding-top: 20px;
+    text-align: center;
+}
+.app__footer-social p{
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.app__footer-social img{
+    padding-left: 15px;
+}
+.app__footer-cc{
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 15px;
+}

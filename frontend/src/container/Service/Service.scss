@@ -1,0 +1,69 @@
+
+.app__service-temp{
+    width: 1300px;
+    flex:1;
+    padding-left: 250px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.app__service-temp-cont{
+    width: 470px;
+    color: black;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.app__service-temp-cont-logo img{
+    width: 3%;
+}
+.app__service-temp-cont ul li{
+    list-style-type: none;
+    font-size: 18px;
+}
+.app__service-temp-cont1{
+    color: #2D83EE;
+    font-size: 16px;
+}
+.app__service-temp-cont2{
+    color: black;
+    font-size: 40px;
+}
+.app__service-temp-img {
+    width: 600px;
+    height: 409px;
+}
+.app__service-temp-cont p{
+    padding-top: 5px;
+    
+    font-size: 18px;
+    
+}
+
+.app__service-temp-cont button{
+    color: white;
+    margin-top: 20px;
+    border-style: none;
+    font-size: 16px;
+    border-radius: 7px;
+    width: 175px;
+    height: 40px;
+    background: linear-gradient(to right,#7184FD,#3F7AF0,#4F37EE);
+}
+.app__security{
+    text-align: center;
+}
+.app__security-title{
+    color: #2D83EE;
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.app__security-pas{
+    color: black;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+.app__security img{
+    width:90%
+}
