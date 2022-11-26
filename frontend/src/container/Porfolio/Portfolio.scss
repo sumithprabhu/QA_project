@@ -1,0 +1,74 @@
+.app__portfolio{
+    background-color: #15306F;
+    background-image: url("../../assets/Rectangle2.svg") ;
+    background-size: 2000%;
+    background-position:20% 10%;
+    background-blend-mode:color-burn;
+    opacity: 90%;
+    margin-top: 20px;
+  }
+
+  .app__portfolio-title{
+    text-align: center;
+    padding-top: 30px;
+    color: #2D83EE;
+    font-size: 16px;
+  }
+  .app__portfolio p{
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    font-size: 40px;
+  }
+
+  .app__portfolio-filter{
+    padding:20px 280px;
+    justify-content: space-around;
+    display: flex;
+
+    .item-active {
+        background-color:#2D83EE;
+        
+      }
+  }
+  .app__portfolio-filter-item{
+    padding: 0.5rem 1rem;
+    border-radius: 17px;
+    border-style:groove;
+    border-color: white;
+    color:white;
+
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 0.5rem;
+    border-width: thin;
+    
+  }
+
+
+  .app__portfolio-work{
+    display: flex;
+    padding: 20px 80px;
+    justify-content: space-around;
+  }
+
+  .app__portfolio-work-item-button{
+    display: flex;
+    justify-content: center;
+  }
+  .app__portfolio-work-item-button div{
+    color: white;
+    align-content: center;
+    border-radius: 7px;
+    padding: 10px 5px;
+    font-size: 14px;
+    margin-right: 20px;
+    border-style: solid;
+    border-width: thin;
+  }
+  .app__portfolio-work-item p{
+    align-items: center;
+    font-size: 22px;
+    padding-bottom: 15px;
+  }
+  

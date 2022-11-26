@@ -5,7 +5,7 @@ import Lottie from "lottie-react";
 
 const Service= ()=>{
     return(
-        <div className='app__service'>
+        <div className='app__service' id='services'>
             <div className='app__service-temp'>
                 <div className='app__service-temp-img'><Lottie className='app__service-temp-img' animationData={images.animation3}/></div>
                 <div className='app__service-temp-cont'>

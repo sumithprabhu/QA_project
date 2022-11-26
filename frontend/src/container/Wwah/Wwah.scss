@@ -1,0 +1,99 @@
+.app__wwah {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.app__wwah-left {
+  width: 380px;
+  div {
+    color: #2d83ee;
+    font-size: 16px;
+  }
+  p {
+    padding-top: 10px;
+    font-size: 40px;
+  }
+  button {
+    color: white;
+    margin-top: 20px;
+    border-style: none;
+    font-size: 16px;
+    border-radius: 7px;
+    width: 175px;
+    height: 40px;
+    background: linear-gradient(to right, #7184fd, #3f7af0, #4f37ee);
+  }
+}
+.wwah-right{
+    font-size: 22px;
+}
+.app__wwah-right-s1{
+    color: #4A4BEE;
+    position: relative;
+    width: 350px;
+    margin-left: 200px;
+    padding: 15px 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #2D83EE;
+    border-radius: 7px;
+    z-index: 1;
+}
+.app__wwah-right-s2{
+    color: #4A4BEE;
+    background-color: white;
+    position: relative;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: 150px;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #2D83EE;
+    border-radius: 7px;
+    z-index: 2;
+}
+.app__wwah-right-s3{
+    
+    background-color: #4A4BEE;
+    color: white;
+    position: relative;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: 100px;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #2D83EE;
+    border-radius: 7px;
+    z-index: 3;
+}
+.app__wwah-right-s4{
+    color: #4A4BEE;
+    background-color: white;
+    position: relative;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: 150px;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #2D83EE;
+    border-radius: 7px;
+    z-index: 2;
+}
+.app__wwah-right-s5{
+    color: #4A4BEE;
+    position: relative;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: 200px;
+    padding: 10px 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #2D83EE;
+    border-radius: 7px;
+    z-index: 1;
+}

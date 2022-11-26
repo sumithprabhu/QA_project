@@ -1,5 +1,6 @@
 import logo from '../assets/logo.svg';
 import logo1 from '../assets/logo1.svg';
+import logo3 from '../assets/logo3.svg';
 import ethereum from '../assets/ethereum.svg';
 import sol from '../assets/sol.svg';
 import binance from '../assets/binance.svg';
@@ -17,6 +18,15 @@ import facebook from '../assets/facebook.svg';
 import discord from '../assets/discord.svg';
 import twitter from '../assets/twitter.svg';
 import linkedin from '../assets/linkedin.svg';
+import work from '../assets/work.png';
+import mention1 from '../assets/mention1.png';
+import mention2 from '../assets/mention2.png';
+import mention3 from '../assets/mention3.png';
+import mention4 from '../assets/mention4.png';
+import mention5 from '../assets/mention5.png';
+import stackos from '../assets/stackos.png';
+import email from '../assets/email.svg';
+import join from '../assets/join.svg';
 
 export default{
     logo,
@@ -37,5 +47,15 @@ export default{
     youtube,
     facebook,
     twitter,
-    linkedin
+    linkedin,
+    work,
+    mention1,
+    mention2,
+    mention3,
+    mention4,
+    mention5,
+    stackos,
+    logo3,
+    email,
+    join
 }

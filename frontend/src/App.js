@@ -1,7 +1,7 @@
 import React from 'react'
 
 //import {About,Footer,Header,Work,Skills} from './container/index';
-import {About,Service,Footer} from './container/index'
+import {About,Service,Footer,Portfolio,Wwah,Mention,Testimonials,Nl} from './container/index'
 import './App.css'
 
 const App = () => {
@@ -9,6 +9,11 @@ const App = () => {
     <div className='app'>
     <About />
     <Service />
+    <Portfolio />
+    <Wwah />
+    <Mention />
+    <Testimonials />
+    <Nl />
     <Footer />
     {/* <Header />
     <About />

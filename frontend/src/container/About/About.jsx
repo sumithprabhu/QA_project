@@ -2,8 +2,7 @@ import React from 'react';
 import './About.scss';
 import {images} from '../../constants';
 import Lottie from "lottie-react";
-//import {HiMenuAlt4,HiX} from 'react-icons/hi';
-//import {motion} from 'framer-motion';
+
 
 
 
@@ -16,14 +15,14 @@ const About = () => {
         <img src={images.logo1} alt='Logo' />
       </div>
       <ul className='app__navbar-links'>
-        <li><a href ={"#Audit"}>Audit Service</a></li>
-        <li><a href ={"#pricing"}>Pricing</a></li>
-        <li><a href ={"#Audit"}>Blog</a></li>
-        <li><a href ={"#Audit"}>Research</a></li>
+        <li><a href ={"#services"}>Audit Service</a></li>
+        <li><a href ={"#nl"}>Pricing</a></li>
+        <li><a href ={"#services"}>Services</a></li>
+        <li><a href ={"#testimonials"}>Research</a></li>
       </ul>
       <ul className='app__navbar-buttons'>
-      <li><a href ={"#Audit"}>Portfolio</a></li>
-      <li><a href ={"#Audit"}>Request a Demo</a></li>
+      <li><a href ={"#portfolio"}>Portfolio</a></li>
+      <li><a href ={"#nl"}>Request a Demo</a></li>
       </ul>
     </nav>
 
